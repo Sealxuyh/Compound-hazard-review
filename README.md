@@ -14,7 +14,6 @@ The project focuses on:
 
 
 ## EM-DAT analysis  (`01_emdat.ipynb`)
-
 ### Data sources
 
 EM-DAT contains data on the occurrence and impacts of over 27,000 mass disasters worldwide from 1900 to the present day.
@@ -40,7 +39,6 @@ This notebook performs:
 
 
 ## Trend analysis (`02_trend_analysis.ipynb`)
-
 This notebook focuses on publication and methodological trends of modeling compound hazards. Methods include physics-based methods, data-driven methods, and hybrid methods.
 
 Main analyses include:
