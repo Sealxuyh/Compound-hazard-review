@@ -1,0 +1,9 @@
+Algorithm,Status,Clusters,Modularity,Agreement_with_Louvain,Notes
+Louvain (main),OK,3,0.08714984478343937,1.0,Reference partition.
+Greedy modularity,OK,3,0.08714984478343937,1.0,Robustness comparison.
+Spectral clustering,OK,3,0.08534876837951623,0.9090909090909091,Robustness comparison.
+Async label propagation,OK,2,0.08564773189215008,0.8484848484848485,Robustness comparison.
+Infomap,OK,2,0.08564773189215008,0.8484848484848485,Robustness comparison.
+Walktrap,OK,3,0.08562700543013985,0.8181818181818182,Robustness comparison.
+Girvan-Newman,OK,3,-6.2807460634284e-07,0.3939393939393939,Robustness comparison.
+Label propagation,OK,1,0.0,0.3181818181818182,Robustness comparison.

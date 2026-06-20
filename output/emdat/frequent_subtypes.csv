@@ -1,0 +1,31 @@
+Disaster Type,Disaster Subtype,Frequency
+Storm,Tropical cyclone,737
+Flood,Riverine flood,570
+Flood,Flood (General),436
+Flood,Flash flood,239
+Storm,Severe weather,154
+Storm,Storm (General),135
+Earthquake,Ground movement,103
+Storm,Lightning/Thunderstorms,86
+Storm,Blizzard/Winter storm,82
+Storm,Tornado,57
+Extreme temperature,Cold wave,56
+Mass movement (wet),Landslide (wet),52
+Storm,Extra-tropical storm,36
+Drought,Drought,34
+Storm,Hail,30
+Extreme temperature,Heat wave,24
+Wildfire,Forest fire,20
+Mass movement (wet),Mudslide,13
+Wildfire,Wildfire (General),11
+Volcanic activity,Ash fall,8
+Storm,Sand/Dust storm,7
+Flood,Coastal flood,7
+Mass movement (wet),Avalanche (wet),6
+Wildfire,"Land fire (Brush, Bush, Pasture)",6
+Storm,Storm surge,4
+Earthquake,Tsunami,3
+Volcanic activity,Lava flow,3
+Storm,Derecho,1
+Volcanic activity,Pyroclastic flow,1
+Volcanic activity,Volcanic activity (General),1

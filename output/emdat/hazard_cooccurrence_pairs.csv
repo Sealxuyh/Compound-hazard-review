@@ -1,0 +1,29 @@
+Hazard_A,Hazard_B,weight
+Flood,Mass movement,1129
+Flood,Storm,1113
+Mass movement,Storm,397
+Earthquake,Mass movement,105
+Extreme rainfall,Storm,90
+Flood,Extreme rainfall,87
+Extreme temperature,Storm,68
+Extreme temperature,Snow/ice extremes,48
+Drought,Extreme temperature,46
+Extreme temperature,Wildfire,43
+Snow/ice extremes,Storm,26
+Drought,Wildfire,12
+Extreme temperature,Flood,11
+Earthquake,Volcanic activity,8
+Storm,Wildfire,5
+Flood,Snow/ice extremes,5
+Mass movement,Snow/ice extremes,4
+Extreme temperature,Fog,3
+Extreme temperature,Extreme rainfall,3
+Mass movement,Extreme rainfall,3
+Mass movement,Volcanic activity,3
+Flood,Volcanic activity,2
+Earthquake,Storm,1
+Earthquake,Flood,1
+Extreme temperature,Mass movement,1
+Extreme rainfall,Volcanic activity,1
+Flood,Infestation,1
+Flood,Wildfire,1

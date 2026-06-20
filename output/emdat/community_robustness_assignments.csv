@@ -1,0 +1,13 @@
+Hazard,Louvain (main),Greedy modularity,Label propagation,Async label propagation,Girvan-Newman,Infomap,Walktrap,Spectral clustering
+Drought,2,0,0,1,0,2,1,2
+Earthquake,1,2,0,0,0,1,0,1
+Extreme rainfall,0,1,0,0,0,1,0,1
+Extreme temperature,2,0,0,1,0,2,1,2
+Flood,0,1,0,0,0,1,0,1
+Fog,2,0,0,1,1,2,1,2
+Infestation,0,1,0,0,2,1,2,1
+Mass movement,0,1,0,0,0,1,0,1
+Snow/ice extremes,2,0,0,1,0,2,1,2
+Storm,0,1,0,0,0,1,0,1
+Volcanic activity,1,2,0,0,0,1,0,0
+Wildfire,2,0,0,1,0,2,1,2
