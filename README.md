@@ -1,26 +1,25 @@
 # Understanding, characterizing, and modeling compound hazards for urban resilience
 
-
-
 This repository contains the data processing, exploratory analysis, and visualization workflows used to analyze compound hazards using the EM-DAT (Emergency Events Database) and related literature datasets.
 
 The project focuses on:
 
 - Cleaning and restructuring EM-DAT disaster records
 - Extracting and classifying associated hazard types
-- Exploring temporal trends in compound hazards
-- Visualizing hazard interactions and publication trends
+- Exploring temporal trends in compound hazard research
+- Visualizing publication trends
 
 
 
 ## EM-DAT analysis  (`01_emdat.ipynb`)
+
+![img](figures/hazard_network.png)
+
 ### Data sources
 
 EM-DAT contains data on the occurrence and impacts of over 27,000 mass disasters worldwide from 1900 to the present day.
 
-Official website:
-
-https://www.emdat.be/
+Official website: https://www.emdat.be/
 
 ### EM-DAT processing
 
@@ -32,15 +31,17 @@ This notebook performs:
 - Separating natural and technological disasters
 - Parsing associated hazard types
 - Expanding multi-hazard relationships into structured columns
-- Using the Louvain algorithm to identify hazard clusters
+- Using the Louvain algorithm to identify hazard clusters and conducting robustness check against alternative community detection algorithms
 - Creating yearly summaries and descriptive statistics
 - Preparing outputs for visualization and network analysis
 
 Data availability:
 
-The raw and processed datasets used in this study are available in the `data` directory of the associated repository.
+- The raw and processed datasets used in this study are available in the `data` directory of the associated repository.
 
 ## Trend analysis (`02_trend_analysis.ipynb`)
+![img](figures/review_overview.png)
+
 This notebook focuses on publication and methodological trends of modeling compound hazards. Methods include physics-based methods, data-driven methods, and hybrid methods.
 
 Main analyses include:
@@ -49,8 +50,14 @@ Main analyses include:
 - Methodological evolution over time
 - Distribution of spatial scales
 - Compound hazard type frequencies
-- Visualization of research trends
+- Visualization of trends
 
 Data availability:
 
-The processed datasets supporting the findings of this systematic review are available from the authors upon reasonable request.
+- The processed datasets are available from the authors upon reasonable request.
+
+
+
+## AI acknowledgement
+
+OpenAI Codex was used to assist with reorganizing and refactoring the notebooks. All analytical decisions, code verification, interpretation of results, and final edits were performed by the author.
