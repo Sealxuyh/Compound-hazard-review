@@ -36,7 +36,9 @@ This notebook performs:
 - Creating yearly summaries and descriptive statistics
 - Preparing outputs for visualization and network analysis
 
+Data availability:
 
+The raw and processed datasets used in this study are available in the `data` directory of the associated repository.
 
 ## Trend analysis (`02_trend_analysis.ipynb`)
 This notebook focuses on publication and methodological trends of modeling compound hazards. Methods include physics-based methods, data-driven methods, and hybrid methods.
@@ -48,3 +50,7 @@ Main analyses include:
 - Distribution of spatial scales
 - Compound hazard type frequencies
 - Visualization of research trends
+
+Data availability:
+
+The processed datasets supporting the findings of this systematic review are available from the authors upon reasonable request.

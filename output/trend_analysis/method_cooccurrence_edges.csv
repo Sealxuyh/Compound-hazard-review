@@ -1,0 +1,43 @@
+Source,Target,Weight
+Hydrodynamic model,Multivariate dependence modeling,7
+Hydrodynamic model,Landslide model,3
+Atmospheric model,Hydrodynamic model,3
+Hydraulic model,Hydrological model,3
+Hydrodynamic model,Hydrological model,3
+Hydrological model,Multivariate dependence modeling,3
+Hydrological model,Landslide model,2
+Atmospheric model,Hydrological model,2
+Earthquake model,Hydraulic model,2
+Hydrological model,Wave model,2
+Machine learning,Multivariate dependence modeling,1
+Hydrologic model,Multivariate dependence modeling,1
+Hydrodynamic model,Machine learning,1
+Landslide model,Machine learning,1
+Hydrodynamic model,Hydrologic model,1
+Hydraulic model,Tropical cyclone model,1
+Hydraulic model,Hydrologic model,1
+Hydrodynamic model,Urban canopy model,1
+Hydrological model,Ocean model,1
+Hydraulic model,Landslide model,1
+Ballistic trajectory model,Fire spread model,1
+Ballistic trajectory model,Ignition model,1
+Fire spread model,Ignition model,1
+Debris flow model,Landslide model,1
+Hydrologic model,Landslide model,1
+Atmospheric model,Urban canopy model,1
+Hydrodynamic model,Volcanic activity model,1
+Landslide model,Volcanic activity model,1
+Hydrodynamic model,Wave model,1
+Hydrodynamic model,Tropical cyclone model,1
+Hydrological model,Tropical cyclone model,1
+Multivariate dependence modeling,Tropical cyclone model,1
+Multivariate dependence modeling,Wave model,1
+Tropical cyclone model,Wave model,1
+Debris flow model,Earthquake model,1
+Debris flow model,Hydraulic model,1
+Debris flow model,Ignition model,1
+Earthquake model,Ignition model,1
+Hydraulic model,Ignition model,1
+Hydraulic model,Surrogate model,1
+Hydraulic model,Multivariate dependence modeling,1
+Debris flow model,Hydrological model,1
